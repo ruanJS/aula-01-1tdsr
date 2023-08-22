@@ -3,8 +3,8 @@ export default function App() {
 
   //AREA DECLARATIVA
 
-  var nome = "Cássio";
-  let frase = "Melhor Goleiro do Brasil!";
+  var nome = "Lucas";
+  let frase = "Melhor Jogador do São Paulo";
   return (
     <>
       <h1>React + Vite By rm551096</h1>
